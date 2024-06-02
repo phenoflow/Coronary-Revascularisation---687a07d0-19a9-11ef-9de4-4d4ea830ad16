@@ -206,8 +206,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: prosthetic-coronary-revascularisation---primary/output
-  coronary-revascularisation-vpresence---primary:
-    run: coronary-revascularisation-vpresence---primary.cwl
+  coronary-revascularisation-presence---primary:
+    run: coronary-revascularisation-presence---primary.cwl
     out:
     - output
     in:
@@ -227,7 +227,7 @@ steps:
         source: inputModule21
       potentialCases:
         id: potentialCases
-        source: coronary-revascularisation-vpresence---primary/output
+        source: coronary-revascularisation-presence---primary/output
   coronary-revascularisation-following---primary:
     run: coronary-revascularisation-following---primary.cwl
     out:
