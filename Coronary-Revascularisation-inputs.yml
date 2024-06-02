@@ -57,7 +57,7 @@ inputModule19:
   path: python/coronary-revascularisation-triple---primary.py
 inputModule20:
   class: File
-  path: python/coronary-revascularisation-vpresence---primary.py
+  path: python/coronary-revascularisation-presence---primary.py
 inputModule21:
   class: File
   path: python/coronary-revascularisation-angiop---primary.py
